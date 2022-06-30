@@ -2,7 +2,6 @@
 
 ![](https://hit.yhype.me/github/profile?label=Profile+views?user_id=10767713&color=green)
 
- ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen)
 ![](https://komarev.com/ghpvc/?username=abbasfisal)
 
 <!--
