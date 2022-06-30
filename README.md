@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&?logo=#0A66C2?logoColor=violet
+)](https://www.linkedin.com/in/abbas-momeni/)
+
+
 ![](https://hit.yhype.me/github/profile?label=Profile+views?user_id=10767713&color=ff69b4)
 
 ![](https://komarev.com/ghpvc/?username=abbasfisal)
