@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![hi](https://hit.yhype.me/github/profile?user_id=10767713&color=green)
+![](https://hit.yhype.me/github/profile?user_id=10767713&color=green)
 
-
+ ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen)
 
 <!--
 **abbasfisal/abbasfisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
