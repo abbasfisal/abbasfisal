@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://hit.yhype.me/github/profile?label=Profile+views?user_id=10767713&color=green)
+![](https://hit.yhype.me/github/profile?label=Profile+views?user_id=10767713&color=blueviolet)
 
 ![](https://komarev.com/ghpvc/?username=abbasfisal)
 
